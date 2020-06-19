@@ -1,0 +1,70 @@
+body{
+ background-image: url('../images/yt.jpg');
+ margin:0px 0px 0px 0px;
+ font-family:"calibri";
+}
+#header{
+ background-color:black;
+ padding-bottom:20px;
+ text-align:center;
+}
+#header h1{
+ text-align:center;
+ color:grey;
+ letter-spacing:5px;
+ text-decoration:none;
+ text-decoration-style: solid;
+}
+#nav{
+ width:60%;
+ margin:auto;
+}
+#nav a{
+ background-color:white; /* Yellow */
+ width:150px;
+ border:solid 2px black; /* Teal Green */
+ font-size:20px;
+ text-decoration:none;
+ color:black;
+ padding-left:20px;
+ padding-right:20px;
+}
+#main{
+  background-color: lightgrey;
+  background-size:150px;
+ margin: auto;
+ width:80%;
+ padding:50px;
+ margin-top:5px;
+}
+#main form, #main h2{
+ text-align:center;
+}
+#main table {
+  padding-top: 50px;
+ width:100%;
+ border-style: solid ;
+ border-color: black;
+ text-align:center;
+ color:black;
+}
+#main table th{
+ background-color: #329A97;
+ color:white;
+}
+.btn{
+ background-color:white; /* Yellow */
+ width:150px;
+ border:solid 2px; /* Teal Green */
+ font-size:18px;
+ text-decoration:none;
+ color:black;
+ padding-left:10px;
+ padding-right:10px;
+}
+#hello{
+text-align:right;
+margin-right:50px;
+font-size:20px;
+color:white;
+}
